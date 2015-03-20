@@ -74,3 +74,17 @@ The following variables are extracted from train and test datasets and then all 
 * fBodyBodyGyroJerkMag-std()
 
 The names are unchanged from the original names defined in `UCI HAR Dataset/features.txt`.
+
+In addition to these variables the following 2 variables are defined:
+
+* activity 
+  * factor variable with the following values
+    * WALKING
+    * WALKING_UPSTAIRS
+    * WALKING_DOWNSTAIRS
+    * SITTING
+    * STANDING
+    * LAYING
+* subject
+  * this variable identifies a subject participated in the study
+  * there are 30 subjects each numbered from 1 to 30
