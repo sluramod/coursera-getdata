@@ -21,6 +21,8 @@ Please run run_analysis.R in the directory where UCI HAR Dataset.zip is located 
   * activity_labels.txt	
   * features.txt		
   * features_info.txt
+* CodeBook.md
+* README.md
 * run_analysis.R
 * UCI HAR Dataset.zip
 
